@@ -27,14 +27,18 @@
     "@electron-forge/plugin-fuses": "^7.10.2",
     "@electron-forge/plugin-vite": "^7.10.2",
     "@electron/fuses": "^1.8.0",
-    "electron": "39.2.7",
+    "electron": "^39.2.7",
     "vite": "^7.3.0"
   },
   "dependencies": {
     "@recharts/devtools": "^0.0.5",
     "@vitejs/plugin-react": "^5.1.2",
     "electron-squirrel-startup": "^1.0.1",
+    "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "recharts": "^3.6.0"
+    "react-uplot": "^0.0.9",
+    "recharts": "^3.6.0",
+    "uplot": "^1.6.32",
+    "uplot-react": "^1.2.4"
   }
 }
