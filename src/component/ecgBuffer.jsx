@@ -1,4 +1,3 @@
-// ecgBuffer.js
 export function createRingBuffer(size) {
     const buffer = new Float32Array(size);
     let index = 0;
