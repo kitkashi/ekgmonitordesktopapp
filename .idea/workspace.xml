@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="259dc404-9e61-40d8-9580-c22c0c9b99fc" name="Changes" comment="ecg buffer plot and mock data">
-      <change beforePath="$PROJECT_DIR$/src/component/ecgBuffer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ecgBuffer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/profile.jsx" beforeDir="false" />
+    <list default="true" id="259dc404-9e61-40d8-9580-c22c0c9b99fc" name="Changes" comment="deleted uneccessary profile">
+      <change afterPath="$PROJECT_DIR$/src/serialRead/webSerialAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JSX File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -38,6 +39,9 @@
     &quot;accountId&quot;: &quot;c06b3d15-55c2-4faf-b275-77d58ba5cbbb&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -107,7 +111,7 @@
       <updated>1767212654061</updated>
       <workItem from="1767212655149" duration="7000000" />
       <workItem from="1767242924326" duration="1871000" />
-      <workItem from="1767298991860" duration="4059000" />
+      <workItem from="1767298991860" duration="6495000" />
     </task>
     <task id="LOCAL-00001" summary="boilerplate for electron react and vite">
       <option name="closed" value="true" />
@@ -141,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767305297665</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="deleted uneccessary profile">
+      <option name="closed" value="true" />
+      <created>1767305535237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767305535237</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +163,7 @@
     <MESSAGE value="boilerplate for electron react and vite" />
     <MESSAGE value="added rechart unable to see" />
     <MESSAGE value="ecg buffer plot and mock data" />
-    <option name="LAST_COMMIT_MESSAGE" value="ecg buffer plot and mock data" />
+    <MESSAGE value="deleted uneccessary profile" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted uneccessary profile" />
   </component>
 </project>
